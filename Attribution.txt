@@ -1,0 +1,12 @@
+AttributionNotes
+
+Might use this for the menu GUI:
+https://assetstore.unity.com/packages/2d/gui/casual-game-gui-skin-67196
+
+CRT effects, looks awesome. be sure to cite
+https://assetstore.unity.com/packages/vfx/shaders/fullscreen-camera-effects/ultimate-crt-80048
+
+Try this to reduce lag from making/deleting particles
+https://gist.github.com/quill18/5a7cfffae68892621267
+
+
